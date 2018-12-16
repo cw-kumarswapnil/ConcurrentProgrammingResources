@@ -21,3 +21,6 @@
 ## Miscellaneous Resources
 * (https://stackoverflow.com/questions/44136118/net-core-vs-asp-net-core)
 * (https://stackoverflow.com/questions/3900549/what-is-runtime)
+
+## MSDN 
+* (https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/attached-and-detached-child-tasks?view=netframework-4.7.2)
