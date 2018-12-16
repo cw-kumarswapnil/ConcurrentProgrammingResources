@@ -24,3 +24,4 @@
 
 ## MSDN 
 * (https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/attached-and-detached-child-tasks?view=netframework-4.7.2)
+* (https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.taskscheduler?view=netframework-4.7.2#Default)
